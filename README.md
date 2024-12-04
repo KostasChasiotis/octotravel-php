@@ -18,7 +18,7 @@ A simple, robust PHP library for interacting with the [Octo.travel API](https://
 Install the library using Composer:
 
 ```bash
-composer require kostaschasiotis/octo-travel-api
+composer require kostaschasiotis/octotravel-php
 ```
 <br>
 <br>

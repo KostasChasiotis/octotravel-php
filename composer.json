@@ -1,5 +1,5 @@
 {
-    "name": "kostaschasiotis/octotravel",
+    "name": "kostaschasiotis/octotravel-php",
     "description": " A simple, robust PHP library for interacting with the Octo.travel API.",
     "type": "library",
     "license": "MIT",
